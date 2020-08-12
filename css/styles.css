@@ -840,11 +840,7 @@ html, body {
   html, body {
     font-size: 0.5208333vw;
   }
-  @media (min-width: 1921px) {
-    html, body {
-      font-size: 10px;
-    }
-  }
+  
 
   /*HEADER*/
 
